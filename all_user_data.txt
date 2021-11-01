@@ -1,4 +1,2 @@
-[{'user_id': 'light', 'email': 'light', 'passw': 'light123'}]
 [{'user_id': 'babu', 'email': 'bhaiya', 'passw': 'khopaditodsaleka'}]
 [{'user_id': 'raja', 'email': 'bhaiya', 'passw': '1234here'}]
-[{'user_id': 'Arth', 'email': 'king@ap.com', 'passw': 'ap123'}]
